@@ -32,3 +32,10 @@ Data source: Grok, DeepSeek (Wikipedia, SIPRI, IMF).
 𝐓𝐡𝐨𝐮𝐠𝐡𝐭𝐬? Should nations cap military spending to fund development.
 
 Note: Data for certain years is not readily available. The figures provided are based on available information on internet.
+
+![excel-sql-power bi](dashboard%20img.png)
+
+
+## Education Budget Shares: Russia, US, China & More
+
+![excel-sql-power bi](dashboard%20img.png)
