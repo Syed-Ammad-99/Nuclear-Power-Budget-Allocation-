@@ -33,9 +33,9 @@ Data source: Grok, DeepSeek (Wikipedia, SIPRI, IMF).
 
 Note: Data for certain years is not readily available. The figures provided are based on available information on internet.
 
-![excel-sql-power bi](dashboard%20img.png)
+![𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐒𝐩𝐞𝐧𝐝𝐢𝐧𝐠 𝐏𝐫𝐢𝐨𝐫𝐢𝐭𝐢𝐞𝐬](img.png)
 
 
 ## Education Budget Shares: Russia, US, China & More
 
-![excel-sql-power bi](dashboard%20img.png)
+![Education Budget](img2.png)
